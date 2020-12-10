@@ -14,7 +14,7 @@ setup(
         'pandas',
         'numpy==1.15.4',
         'scipy',
-        'matplotlib==3.0.3',
+        'matplotlib',
         'pathos',
         'gym==0.9.4',
         'boto3'
