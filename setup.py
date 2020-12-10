@@ -12,10 +12,11 @@ setup(
     packages=['simglucose'],
     install_requires=[
         'pandas',
-        'numpy',
+        'numpy==1.15.4',
         'scipy',
         'pybind11=2.4.3',
         'matplotlib==3.0.3',
+        'matplotlib',
         'pathos',
         'gym==0.9.4',
         'boto3'
