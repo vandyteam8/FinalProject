@@ -28,7 +28,7 @@ This simulator is a python implementation of the FDA-approved [UVa/Padova Simula
 ## Installation
 It is highly recommended to use `pip` to install `simglucose`, follow this [link](https://pip.pypa.io/en/stable/installing/) to install pip.
 
-Auto installation:
+Activate the Python Environment Variables:
 ```bash
 source env/bin/activate
 ```
@@ -44,7 +44,7 @@ pip install -e .
 ```
 If you do not have `pip`, then
 ```bash
-python setup.py install
+python3 setup.py install
 ```
 
 If [rllab (optional)](https://github.com/rll/rllab) is installed, the package will utilize some functionalities in rllab.
