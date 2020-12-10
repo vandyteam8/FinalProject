@@ -1,0 +1,9 @@
+README.md
+setup.py
+simglucose/__init__.py
+simglucose.egg-info/PKG-INFO
+simglucose.egg-info/SOURCES.txt
+simglucose.egg-info/dependency_links.txt
+simglucose.egg-info/not-zip-safe
+simglucose.egg-info/requires.txt
+simglucose.egg-info/top_level.txt

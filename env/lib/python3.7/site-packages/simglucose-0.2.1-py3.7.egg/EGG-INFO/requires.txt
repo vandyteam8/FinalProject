@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+matplotlib
+pathos
+gym==0.9.4

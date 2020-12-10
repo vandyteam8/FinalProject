@@ -1,0 +1,4 @@
+#!/Users/maheshgouru/Documents/GitHub/FinalProject/env/bin/python3
+# EASY-INSTALL-SCRIPT: 'pathos==0.2.7','pathos_connect'
+__requires__ = 'pathos==0.2.7'
+__import__('pkg_resources').run_script('pathos==0.2.7', 'pathos_connect')

@@ -1,0 +1,4 @@
+#!/Users/maheshgouru/Documents/GitHub/FinalProject/env/bin/python3
+# EASY-INSTALL-SCRIPT: 'ppft==1.6.6.3','ppserver'
+__requires__ = 'ppft==1.6.6.3'
+__import__('pkg_resources').run_script('ppft==1.6.6.3', 'ppserver')

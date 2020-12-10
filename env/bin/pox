@@ -1,0 +1,4 @@
+#!/Users/maheshgouru/Documents/GitHub/FinalProject/env/bin/python3
+# EASY-INSTALL-SCRIPT: 'pox==0.2.9','pox'
+__requires__ = 'pox==0.2.9'
+__import__('pkg_resources').run_script('pox==0.2.9', 'pox')
