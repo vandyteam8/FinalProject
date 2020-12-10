@@ -14,7 +14,6 @@ setup(
         'pandas',
         'numpy==1.15.4',
         'scipy',
-        'pybind11=2.4.3',
         'matplotlib==3.0.3',
         'matplotlib',
         'pathos',
