@@ -79,7 +79,7 @@ class MyDb(object):
 def main():
     global counter
 
-    threading.Timer(interval=10, function=main).start()
+    threading.Timer(interval=1, function=main).start()
     obj = MyDb()
     Temperature , Humidity = obj.sensor_value()
     obj.put(Patient_id=str(counter), Time=str(Time), BG=str(BG))
