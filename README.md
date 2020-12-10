@@ -30,13 +30,13 @@ It is highly recommended to use `pip` to install `simglucose`, follow this [link
 
 Auto installation:
 ```bash
-pip install simglucose
+source env/bin/activate
 ```
 
 Manual installation: 
 ```bash
-git clone https://github.com/jxx123/simglucose.git
-cd simglucose
+git clone https://github.com/vandyteam8/FinalProject.git
+cd FinalProject
 ```
 If you have `pip` installed, then
 ```bash
