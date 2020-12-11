@@ -44,7 +44,7 @@ pip install -e .
 ```
 If you do not have `pip`, then
 ```bash
-python3 setup.py install
+python setup.py install
 ```
 
 If [rllab (optional)](https://github.com/rll/rllab) is installed, the package will utilize some functionalities in rllab.
